@@ -6,7 +6,7 @@ Uses contiunous integration and deployment to Fly.io.
 
 ## Usage:
 
-Go to `http://localhost:8282`. The page should load.
+The service is located at [angled-name-cicd.fly.dev](https://angled-name-cicd.fly.dev/).
 
 To angle a name - add the parameter `?name=your-chosen-name` after the URL and press enter.
 
