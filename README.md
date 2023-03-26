@@ -1,12 +1,10 @@
-# Angled name
+# Angled name CI/CD
 
-Docker image that uses PHP to generate an angled name from the input
+Docker image that uses PHP to generate an angled name from the input. 
+
+Uses contiunous integration and deployment to Fly.io.
 
 ## Usage:
-
-```shell
-docker run -p 8282:8282 efernber/angled-name
-```
 
 Go to `http://localhost:8282`. The page should load.
 
